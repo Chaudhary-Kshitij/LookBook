@@ -1,0 +1,67 @@
+.container-fluid{
+    width: 100%;
+    padding-right: var(--bs-gutter-x,0rem);
+    padding-left: var(--bs-gutter-x,0rem);
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#user{
+
+    width: 400px;
+    padding: 100px;
+}
+
+#details h1{
+    padding: 50px 0px;
+    color: white;
+    margin-left: 40px ;
+}
+
+.form-control{
+    padding: 0px 50px;
+}
+
+#premium{
+    padding: 5%;
+    text-align: center;
+}
+
+#title .container-fluid {
+    background-color: black;
+    padding: 0;
+    padding-bottom: 50px;
+}
+
+#details .container-fluid {
+    background-color: black;
+    padding: 0;
+    padding-bottom: 50px;
+}
+
+.details{
+    margin-bottom: 5px;
+}
+
+#account .container-fluid{
+    background-color: black;
+    padding: 8%;
+}
+
+#account h1{
+    padding: 50px 0px;
+    color: white;
+}
+
+#account h3{
+    color: white;
+    padding-top: 20px;
+}
+
+#account label{
+    color: white;
+}
+
+.nav-link{
+margin-left: 30px;
+}
